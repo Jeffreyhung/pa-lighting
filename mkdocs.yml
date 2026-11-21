@@ -1,7 +1,7 @@
 site_name: 聲光技術筆記
 site_description: 音響（PA）與舞台燈光技術筆記 · Live sound (PA) and stage lighting notes
 # After you create the GitHub repo, set these two lines (optional but recommended):
-# site_url: https://<your-user>.github.io/<your-repo>/
+site_url: https://pal.dante.tw/
 # repo_url: https://github.com/<your-user>/<your-repo>
 
 docs_dir: docs

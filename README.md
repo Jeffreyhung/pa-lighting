@@ -3,7 +3,7 @@
 音響（PA）與舞台燈光的技術筆記，中文與 English 兩個版本，內容整理自國立中興大學聲光工程社的研習營講義。
 Technical notes on live sound (PA) and stage lighting, in 中文 and English, compiled from the training-camp handouts of the Sound & Lighting Engineering Club at National Chung Hsing University (NCHU).
 
-網站 Site: <https://jeffreyhung.github.io/pa-lighting/> （English: `/en/`）
+網站 Site: <https://pal.dante.tw/> （English: `/en/`）
 
 > 這是個人整理的筆記，不是社團或學校的官方網站。
 > This is a personal compilation, not an official site of the club or the university.
